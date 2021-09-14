@@ -2,11 +2,11 @@
 
 ## Fungi
 
-Microbe | Taxonomy | Known Apis hosts | Effect on host | Citations (DOI URL or stable URL if available)  
--- | -- | -- | -- | --  
-Ascosphaera apis | Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; Eurotiomycetes; Eurotiomycetidae; Onygenales; Ascosphaeraceae; Ascosphaera | Apis mellifera | Pathogenic | [Spiltoir 1955](http://www.jstor.org/stable/2438686)  
-Nosema apis |  |  | Pathogenic | Zander 1909  
-Nosema ceranae |  |  | unknown | [Fries et al. 1996](https://doi.org/10.1016/S0932-4739\(96\)80059-9) 
+Microbe | Taxonomy | Known Apis hosts | Effect on host | Organism overview | Genome assembly and annotation report | Citations (DOI URL or stable URL if available)  
+-- | -- | -- | -- | -- | -- | -- 
+Ascosphaera apis | Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; Eurotiomycetes; Eurotiomycetidae; Onygenales; Ascosphaeraceae; Ascosphaera | Apis mellifera | Pathogenic | [Ascosphaera apis (O.o.)](https://www.ncbi.nlm.nih.gov/genome/656) | [Ascosphaera apis](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/656/) | [Spiltoir 1955](http://www.jstor.org/stable/2438686)  
+Nosema apis |  |  | Pathogenic | []() | []() | Zander 1909  
+Nosema ceranae |  |  | unknown | []() | []() | [Fries et al. 1996](https://doi.org/10.1016/S0932-4739\(96\)80059-9) 
 
 ## Viruses 
 
