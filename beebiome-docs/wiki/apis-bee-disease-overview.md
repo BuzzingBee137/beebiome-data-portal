@@ -45,12 +45,12 @@ Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Known Apis 
 
 ## Protists  
 
-Microbe | Known Apis hosts | Effect on host | Citations (DOI URL or stable URL if available)  
--- | -- | -- | --  
-Crithidia mellificae | Apis mellifera | Parasitic | [Langridge and McGhee 1967](https://doi.org/10.1111/j.1550-7408.1967.tb02033.x)  
-Lotmaria passim | Apis mellifera, Apis cerana | Parasitic | [Schwarz et al. 2015](https://doi.org/10.1111/jeu.12209)  
-Apicystics bombi | Apis mellifera | Parasitic | [Ravoet et al. 2013](https://doi.org/10.1371/journal.pone.0072443)  
-Malpighamoeba mellificae | Apis mellifera | Parasitic | Reviewed in [Evans and Schwarz 2011](https://doi.org/10.1016/j.tim.2011.09.003)  
+Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Known Apis hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available)
+ -- | -- | --  | -- | -- 
+[<i>Crithidia mellificae</i>](https://www.ncbi.nlm.nih.gov/genome/11456) | <i>Apis mellifera</i> | Parasitic | [<i>Crithidia mellificae</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/11456/) | [Langridge and McGhee 1967](https://doi.org/10.1111/j.1550-7408.1967.tb02033.x)  
+[<i>Lotmaria passim</i>](https://www.ncbi.nlm.nih.gov/genome/36572) | <i>Apis mellifera, Apis cerana</i> | Parasitic | [<i>Crithidia mellificae</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/36572/) | [Schwarz et al. 2015](https://doi.org/10.1111/jeu.12209)  
+<i>Apicystics bombi</i> | <i>Apis mellifera</i> | Parasitic | Not provided | [Liu et al. 1974](https://doi.org/10.1016/0022-2011(74)90188-8), [Lipa and Triggiani 1996](https://doi.org/10.1051/apido:19960104), [Ravoet et al. 2013](https://doi.org/10.1371/journal.pone.0072443)  
+<i>Malpighamoeba mellificae</i> | <i>Apis mellifera</i> | Parasitic | not provided |  Prell 1926, Reviewed in [Evans and Schwarz 2011](https://doi.org/10.1016/j.tim.2011.09.003)  
 
 ##  Reference
 These data come from supplemental material of:  
