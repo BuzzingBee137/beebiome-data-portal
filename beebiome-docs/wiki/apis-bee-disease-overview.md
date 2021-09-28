@@ -2,32 +2,33 @@
 
 ## Fungi
 
-Microbe | Taxonomy | Known Apis hosts | Effect on host | Organism overview (NCBI) | Genome assembly and annotation report (NCBI) | Citations (DOI URL or stable URL if available)  
--- | -- | -- | -- | -- | -- | -- 
-<i>Ascosphaera apis</i> | Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; Eurotiomycetes; Eurotiomycetidae; Onygenales; Ascosphaeraceae; Ascosphaera | Apis mellifera | Pathogenic |  https://www.ncbi.nlm.nih.gov/genome/656  | [<i>Ascosphaera apis</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/656/) | [Spiltoir 1955](http://www.jstor.org/stable/2438686)  
-Nosema apis |  |  | Pathogenic | []() | []() | Zander 1909  
-Nosema ceranae |  |  | unknown | []() | []() | [Fries et al. 1996](https://doi.org/10.1016/S0932-4739\(96\)80059-9) 
+Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy | Known Apis hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available)   
+-- | -- | -- | -- | -- | --  
+[<i>Ascosphaera apis</i>](https://www.ncbi.nlm.nih.gov/genome/656) | Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; Eurotiomycetes; Eurotiomycetidae; Onygenales; Ascosphaeraceae; Ascosphaera | <i>Apis mellifera</i> | Pathogenic | [<i>Ascosphaera apis</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/656/) | [Spiltoir 1955](http://www.jstor.org/stable/2438686)   
+[<i>Nosema apis</i>](https://www.ncbi.nlm.nih.gov/genome/14500) |  |  | Pathogenic | Not provided | Zander 1909   
+[<i>Nosema ceranae</i>](https://www.ncbi.nlm.nih.gov/genome/931) |  |  | unknown | [<i>Nosema ceranae</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/931/) | [Fries et al. 1996](https://doi.org/10.1016/S0932-4739\(96\)80059-9)  
+
 
 ## Viruses 
 
-Microbe | Taxonomy | Known Apis hosts | Effect on host | Citations (DOI URL or stable URL if available)  
--- | -- | -- | -- | --  
-Acute bee paralysis virus (ABPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | [Govan et al. 2000](https://doi.org/doi:10.1006/viro.2000.0616)  
-Israeli acute paralysis virus (IAPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | [Maori et al. 2007](https://doi.org/10.1099/vir.0.83284-0)  
-Kashmir bee virus (KBV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | [de Miranda et al. 2004](https://doi.org/10.1099/vir.0.79990-0)  
-Black queen cell virus (BQCV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Cripavirus |  | unknown | [Leat et al. 2000](https://doi.org/10.1099/0022-1317-81-8-2111)  
-Aphid Lethal Paralysis Virus (ALPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; |  |  | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
-Big Sioux River Virus (BSRV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae;  |  |  | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
-Deformed Wing Virus (DWV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | [Lanzi et al. 2006](https://doi.org/10.1128/JVI.80.10.4998-5009.2006)  
-Varroa destructor virus 1 (VDV1) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | [Ongus et al. 2004](https://doi.org/10.1099/vir.0.80470-0)  
-Kakugo virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | unknown | [Fujiyuki et al. 2004](https://doi.org/10.1128/JVI.78.3.1093-1100.2004)  
-sacbrood virus (SBV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | [Ghosh et al. 1999](https://doi.org/10.1099/0022-1317-80-6-1541)  
-Slow bee paralysis virus (SBPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | unknown | [de Miranda et al. 2010](https://doi.org/10.1099/vir.0.022434-0)  
-chronic bee paralysis virus (CBPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; unclassified |  | Pathogenic | [Olivier et al. 2008](https://doi.org/10.1016/j.virusres.2007.10.014)  
-Lake Sinai viruses (LSV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; unclassified |  | unknown | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
-Bee macula-like virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Thymovirales; Thymoviridae | Apis mellifera | unknown | [de Miranda et al. 2015](https://doi.org/10.3390/v7072789)  
-Apis mellifera filamentous virus (AmFV) | Bee | Apis mellifera | unknown | [Gauthier et al. 2015](https://doi.org/10.3390/v7072798)  
-Apis iridescent virus | Viruses; dsDNA viruses, no RNA stage; Iridoviridae | Apis cerana | unknown | [Bailey L. et al. 1976](https://doi.org/10.1099/0022-1317-31-3-459)  
+Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy | Known Apis hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available)   
+-- | -- | -- | -- | -- | --   
+[Acute bee paralysis virus (ABPV)](https://www.ncbi.nlm.nih.gov/genome/5125) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | Not provided | [Bailey et al. 1963](https://doi.org/10.1016/0042-6822(63)90200-9), [Govan et al. 2000](https://doi.org/doi:10.1006/viro.2000.0616)  
+[Israeli acute paralysis virus (IAPV)](https://www.ncbi.nlm.nih.gov/genome/5919) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | Not provided |  [Cox-Foster et al. 2007](https://doi.org/10.1126/science.1146498), [Maori et al. 2007](https://doi.org/10.1099/vir.0.83284-0)  
+[Kashmir bee virus (KBV)](https://www.ncbi.nlm.nih.gov/genome/5053) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus |  | Pathogenic | Not provided | [Bailey and Woods 1977](https://doi.org/10.1099/0022-1317-37-1-175), [de Miranda et al. 2004](https://doi.org/10.1099/vir.0.79990-0)  
+[Black queen cell virus (BQCV)](https://www.ncbi.nlm.nih.gov/genome/4975) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Cripavirus |  | unknown | Not provided | [Bailey and Woods 1977](https://doi.org/10.1099/0022-1317-37-1-175), [Leat et al. 2000](https://doi.org/10.1099/0022-1317-81-8-2111)  
+Aphid Lethal Paralysis Virus (ALPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; |  |  | Not provided | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
+Big Sioux River Virus (BSRV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae;  |  |  | Not provided | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
+Deformed Wing Virus (DWV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | Not provided | [Lanzi et al. 2006](https://doi.org/10.1128/JVI.80.10.4998-5009.2006)  
+Varroa destructor virus 1 (VDV1) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | Not provided |  [Ongus et al. 2004](https://doi.org/10.1099/vir.0.80470-0)  
+Kakugo virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | unknown | Not provided |  [Fujiyuki et al. 2004](https://doi.org/10.1128/JVI.78.3.1093-1100.2004)  
+sacbrood virus (SBV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | Pathogenic | Not provided | [Ghosh et al. 1999](https://doi.org/10.1099/0022-1317-80-6-1541)  
+Slow bee paralysis virus (SBPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus |  | unknown | Not provided | [de Miranda et al. 2010](https://doi.org/10.1099/vir.0.022434-0)  
+chronic bee paralysis virus (CBPV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; unclassified |  | Pathogenic | Not provided| [Olivier et al. 2008](https://doi.org/10.1016/j.virusres.2007.10.014)  
+Lake Sinai viruses (LSV) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; unclassified |  | unknown | Not provided | [Runckel et al. 2011](https://doi.org/10.1371/journal.pone.0020656)  
+Bee macula-like virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Thymovirales; Thymoviridae | <i>Apis mellifera</i> | unknown | Not provided | [de Miranda et al. 2015](https://doi.org/10.3390/v7072789)  
+Apis mellifera filamentous virus (AmFV) | Bee | <i>Apis mellifera</i> | unknown | Not provided | [Gauthier et al. 2015](https://doi.org/10.3390/v7072798)  
+Apis iridescent virus | Viruses; dsDNA viruses, no RNA stage; Iridoviridae | <i>Apis cerana</i> | unknown | Not provided |  [Bailey L. et al. 1976](https://doi.org/10.1099/0022-1317-31-3-459)  
 
 ## Bacteria  
 
