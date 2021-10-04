@@ -48,15 +48,15 @@ Mucor sp.  | Eukaryota; Opisthokonta;Fungi; Fungi incertae sedis; Mucoromycotina
 
 ## Viruses  
 
-Microbe | Taxonomy | Known hosts | Effect on host | Citations
--- | -- | -- | -- | -- 
-Acute bee paralysis virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus | Bombus spp. | Unknown | McMahon et al. 2015
-Black Queen Cell Virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Cripavirus | Bombus spp., Xylocopa virginica, Andrena sp. | Unknown | Singh et al. 2010, McMahon et al. 2015
-Deformed Wing Virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp., Megachile rotundata, Nomia melanderi, Augochlora pura, Andrean sp., Ceratina dupla, Xylocopa virginica | Negative | Singh et al. 2010, Levitt 2013, Evison et al. 2012, Singh 2011, Dissertation, Furst et al. 2014
-Entomopox-like virus | Viruses; dsDNA viruses, no RNA stage; Poxviridae; Entomopoxvirinae; unclassified Entomopoxvirinae | Bombus spp.Unknown | Unknown | Clark 1982
-Israeli acute paralysis virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus | Megachile rotundata, Nomia melanderi, Bombus impatiens, Augochlora pura | Replicates in Bombus | Levitt et al. 2012, Singh et al. 2010, Singh 2011, Dissertation
-Sac brood virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp., Andrena sp. | Unknown | Singh 2010, McMahon et al. 2015
-Slow bee paralysis virus | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp. | Unknown | McMahon et al. 2015
+Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy | Known hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available)   
+-- | -- | -- | -- | -- | --  
+[Acute bee paralysis virus](https://www.ncbi.nlm.nih.gov/genome/5125) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus | Bombus spp. | Unknown | Not provided | [Bailey et al.,1963](ttps://doi.org/10.1016/0042-6822(63)90200-9), Mahon et al. 2015](https://doi.org/10.1111/1365-2656.12345)
+[Black Queen Cell Virus](https://www.ncbi.nlm.nih.gov/genome/4975) | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Cripavirus | Bombus spp., Xylocopa virginica, Andrena sp. | Unknown | Not provided | Singh et al. 2010, McMahon et al. 2015 
+[Deformed Wing Virus]() | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp., Megachile rotundata, Nomia melanderi, Augochlora pura, Andrean sp., Ceratina dupla, Xylocopa virginica | Negative | Not provided | Singh et al. 2010, Levitt 2013, Evison et al. 2012, Singh 2011, Dissertation, Furst et al. 2014
+Entomopox-like virus | Viruses; dsDNA viruses, no RNA stage; Poxviridae; Entomopoxvirinae; unclassified Entomopoxvirinae | Bombus spp.Unknown | Unknown | Not provided |  Clark 1982
+[Israeli acute paralysis virus]() | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Dicistroviridae; Aparavirus | Megachile rotundata, Nomia melanderi, Bombus impatiens, Augochlora pura | Replicates in Bombus | Not provided | Levitt et al. 2012, Singh et al. 2010, Singh 2011, Dissertation
+[Sac brood virus]() | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp., Andrena sp. | Unknown | Not provided | Singh 2010, McMahon et al. 2015
+[Slow bee paralysis virus]() | Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage; Picornavirales; Iflaviridae; Iflavirus | Bombus spp. | Unknown | Not provided | McMahon et al. 2015
 
 ## Bacteria 
 
