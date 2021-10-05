@@ -16,12 +16,12 @@ Lactobacillus Firm4 ([<i>L. mellifer</i>]( https://www.ncbi.nlm.nih.gov/genome/3
 
 ## Apis colony bacteria (i.e. not core bacteria in the worker gut but commonly found in other parts of the colony)  
 
-Bacterium | Taxonomy | Known hosts | Effect on host | Citations  
--- | -- | -- | -- | --  
-Parasaccharibacter apium | Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales;Acetobacteraceae; Parasaccharibacter | Apis mellifera larvae hypopharyngeal glands, royal jelly | increased larval fitness | [Jeyaprakash et al. 2003](http://dx.doi.org/10.1016/j.jip.2003.08.007), [Mohr and Tebbe 2006](http://dx.doi.org/10.1111/j.1462-2920.2005.00893.x), [Babendreier et al. 2007](http://dx.doi.org/10.1111/j.1574-6941.2006.00249.x), Corby-Harris et al. 2014A  
-Alpha 2.1 | Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; unclassified Acetobacteraceae | Apis mellifera, Bombus spp. | unknown | [Koch et al. 2011](http://dx.doi.org/10.1007/s00248-011-9854-3)  
-Lactobacillus kunkeei | Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus | Apis mellifera | unknown | [Anderson et al. 2013](http://dx.doi.org/10.1371/journal.pone.0083125), Corby-Harris 2014B  
-Fructobacillus fructosus | Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Fructobacillus | Apis mellifera, Bombus spp. |  | [Koch et al. 2011](http://dx.doi.org/10.1007/s00248-011-9854-3), [Anderson et al. 2013](http://dx.doi.org/10.1371/journal.pone.0083125), Vojvodic et al. 2013  
+Bacteria: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy |Known Apis hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available) | Type Strain ([BacDive](https://bacdive.dsmz.de/))
+-- | -- | -- | --  | -- | -- | --
+<i>Parasaccharibacter apium</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales;Acetobacteraceae; Parasaccharibacter | <i>Apis mellifera</i> larvae hypopharyngeal glands, royal jelly | increased larval fitness | -- | [Jeyaprakash et al. 2003](http://dx.doi.org/10.1016/j.jip.2003.08.007), [Mohr and Tebbe 2006](http://dx.doi.org/10.1111/j.1462-2920.2005.00893.x), [Babendreier et al. 2007](http://dx.doi.org/10.1111/j.1574-6941.2006.00249.x), Corby-Harris et al. 2014A   | --
+Alpha 2.1 | Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; unclassified Acetobacteraceae | <i>Apis mellifera, Bombus spp.</i> | unknown | -- | [Koch et al. 2011](http://dx.doi.org/10.1007/s00248-011-9854-3)   | --
+<i>Lactobacillus kunkeei</i> | Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus | <i>Apis mellifera</i> | unknown | -- | [Anderson et al. 2013](http://dx.doi.org/10.1371/journal.pone.0083125), Corby-Harris 2014B   | --
+<i>Fructobacillus fructosus</i> | Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Fructobacillus | <i>Apis mellifera, Bombus spp.</i> |  | -- | [Koch et al. 2011](http://dx.doi.org/10.1007/s00248-011-9854-3), [Anderson et al. 2013](http://dx.doi.org/10.1371/journal.pone.0083125), Vojvodic et al. 2013   | --
 
 ## Apis incidental bacteria  
 
