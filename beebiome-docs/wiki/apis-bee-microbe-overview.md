@@ -43,12 +43,12 @@ Bacterium: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy 
 
 ## Non-Apis bee bacteria possible endosymbionts  
 
-Bacterium | Taxonomy | Known hosts | Effect on host | Citations  
--- | -- | -- | -- | --  
-Arsenophonus sp. | Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Arsenophonus | Collettes, Megachile rotundata | unknown | [McFrederick et al. 2014 A](http://dx.doi.org/10.1098/rspb.2013.2653), Gerth et al. 2015  
-Wolbachia | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Anaplasmataceae; Wolbachieae; Wolbachia | Widespread outside of Apis | unknown | [Gerth et al. 2011](http://dx.doi.org/10.1080/14772000.2011.627953), [McFrederick 2012](http://dx.doi.org/10.1111/j.1365-294x.2012.05496.x), [McFrederick et al. 2014B](https://doi.org/10.1111/1574-6941.12302), Gerth et al. 2015  
-Rickettsia | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Rickettsiaceae; Rickettsieae; Rickettsia | Halictidae, Osmia | unknown | [Gerth et al. 2015](http://dx.doi.org/10.1093/femsec/fiv047)  
-Spiroplasma | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma | Megalopta spp. | unknown | [McFrederick et al. 2014B](https://doi.org/10.1111/1574-6941.12302)
+Bacterium: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Taxonomy |Known Apis hosts | Effect on host | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI URL or stable URL if available) | Type Strain ([BacDive](https://bacdive.dsmz.de/))
+-- | -- | -- | --  | -- | -- | --
+<i>Arsenophonus sp.</i> | Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Arsenophonus | <i>Collettes, Megachile rotundata </i>| unknown  | Unclassified species | [McFrederick et al. 2014 A](http://dx.doi.org/10.1098/rspb.2013.2653), [Gerth et al. 2015](https://doi.org/10.1093/femsec/fiv047)   | Unclassified species
+<i>Wolbachia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Anaplasmataceae; Wolbachieae; Wolbachia | Widespread outside of <i>Apis</i> | unknown | Unclassified species | [Gerth et al. 2011](http://dx.doi.org/10.1080/14772000.2011.627953), [McFrederick 2012](http://dx.doi.org/10.1111/j.1365-294x.2012.05496.x), [McFrederick et al. 2014B](https://doi.org/10.1111/1574-6941.12302), [Gerth et al. 2015](https://doi.org/10.1093/femsec/fiv047)   | Unclassified species
+<i>Rickettsia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Rickettsiaceae; Rickettsieae; Rickettsia | <i>Halictidae, Osmia</i> | unknown | Unclassified species | [Gerth et al. 2015](http://dx.doi.org/10.1093/femsec/fiv047)   | Unclassified species
+<i>Spiroplasma</i> | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae; Spiroplasma | <i>Megalopta spp.</i> | unknown | Unclassified species | [McFrederick et al. 2014B](https://doi.org/10.1111/1574-6941.12302) | Unclassified species
 
 ##  Reference
 These data come from supplemental material of:  
