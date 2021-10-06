@@ -62,20 +62,20 @@ Entomopox-like virus | Viruses; dsDNA viruses, no RNA stage; Poxviridae; Entomop
 
 ## Bacteria  
 
-Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/))  | Taxonomy | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI or stable URL if available)  
--- | -- | -- | -- 
-<i>Arsenophonus</i> | Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae | -- | [McFrederick 2014](http://dx.doi.org/10.1111/1574-6941.12302), Gerth 2015  
-<i>Paenibacillus sp.</i> | Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae | -- | [Hedtke et al. 2015](http://dx.doi.org/10.1371/journal.pone.0130560), McFrederick 2014, McFrederick 2012  
-<i>Rickettsia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Rickettsiaceae; Rickettsieae | -- | [Gerth et al. 2015](http://dx.doi.org/10.1093/femsec/fiv047)  
-<i>Spiroplasma apis</i> | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae | -- | [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007), Meeus 2012  
-<i>Spiroplasma melliferum</i> | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae | -- | [Clark et al. 1985](http://dx.doi.org/10.1099/00207713-35-3-296), Ravoet et al.  2014, Meeus 2012  
-<i>Wolbachia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Anaplasmataceae; Wolbachieae | -- | [Evison et al. 2012](http://dx.doi.org/10.1371/journal.pone.0030641), McFrederick et al. 2012, McFrederick et al. 2014, Gerth et al. 2015  
+Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/))  | Taxonomy | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI or stable URL if available)  | Type Strain ([BacDive](https://bacdive.dsmz.de/))
+-- | -- | -- | -- | --
+<i>Arsenophonus</i> | Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae | Unclassified species | [McFrederick 2014](http://dx.doi.org/10.1111/1574-6941.12302), [Gerth 2015](https://doi.org/10.1093/femsec/fiv047)  | Unclassified species
+<i>Paenibacillus sp.</i> | Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae | Unclassified species | [Hedtke et al. 2015](http://dx.doi.org/10.1371/journal.pone.0130560), [McFrederick 2014](https://doi.org/10.1111/1574-6941.12302), [McFrederick 2012](https://doi.org/10.1111/j.1365-294X.2012.05496.x)  | Unclassified species
+<i>Rickettsia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Rickettsiaceae; Rickettsieae | Unclassified species | [Gerth et al. 2015](http://dx.doi.org/10.1093/femsec/fiv047)  | Unclassified species
+[<i>Spiroplasma apis</i>](https://www.ncbi.nlm.nih.gov/genome/15951) | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae | Not provided |  [Mouches et al. 1983](https://doi.org/10.1016/S0769-2609(83)80063-5), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007), [Meeus 2012](https://doi.org/10.1016/j.jip.2011.11.006 )  | Not available
+[<i>Spiroplasma melliferum</i>](https://www.ncbi.nlm.nih.gov/genome/11130) | Bacteria; Tenericutes; Mollicutes; Entomoplasmatales; Spiroplasmataceae | [<i>Spiroplasma melliferum</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/11130/) | [Clark et al. 1985](http://dx.doi.org/10.1099/00207713-35-3-296), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007), [Meeus 2012](https://doi.org/10.1016/j.jip.2011.11.006 )  | [<i>Spiroplasma melliferum</i>](https://bacdive.dsmz.de/strain/14357)
+<i>Wolbachia</i> | Bacteria; Proteobacteria; Alphaproteobacteria; Rickettsiales; Anaplasmataceae; Wolbachieae | Unclassified species | [Evison et al. 2012](http://dx.doi.org/10.1371/journal.pone.0030641), [McFrederick et al. 2012]( https://doi.org/10.1111/j.1365-294X.2012.05496.x), [McFrederick et al. 2014]( https://doi.org/10.1111/1574-6941.12302), [Gerth et al. 2015](https://doi.org/10.1093/femsec/fiv047)  | Unclassified species
 
 ## Protists  
 
 Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/))  | Taxonomy | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI or stable URL if available)  
 -- | -- | -- | -- 
-<i>Apicystis bombi</i> | Eukaryota; Alveolata; Apicomplexa; Conoidasida; Gregarinasina; Neogregarinorida; Ophryocystidae; Apicystis | -- | [Graystock et al. 2013](http://dx.doi.org/10.1111/1365-2664.12134), Gamboa et al. 2015, [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
+<i>Apicystis bombi</i> | Eukaryota; Alveolata; Apicomplexa; Conoidasida; Gregarinasina; Neogregarinorida; Ophryocystidae; Apicystis | Not provided | [Graystock et al. 2013](http://dx.doi.org/10.1111/1365-2664.12134), [Gamboa et al. 2015](https://doi.org/10.1016/j.jip.2015.05.013), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
 <i>Crithidia bombi</i> | Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Crithidia | --  | [Shykoff and Schmidt-Hempel 1991](http://dx.doi.org/10.1007/bf00164387) (among many others), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
 
 ##  Reference
