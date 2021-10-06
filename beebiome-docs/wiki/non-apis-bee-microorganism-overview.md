@@ -75,8 +75,8 @@ Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/))  | Taxonomy |
 
 Microbe: Organism overview ([NCBI](https://www.ncbi.nlm.nih.gov/))  | Taxonomy | Genome assembly and annotation report ([NCBI](https://www.ncbi.nlm.nih.gov/)) | Citations (DOI or stable URL if available)  
 -- | -- | -- | -- 
-<i>Apicystis bombi</i> | Eukaryota; Alveolata; Apicomplexa; Conoidasida; Gregarinasina; Neogregarinorida; Ophryocystidae; Apicystis | Not provided | [Graystock et al. 2013](http://dx.doi.org/10.1111/1365-2664.12134), [Gamboa et al. 2015](https://doi.org/10.1016/j.jip.2015.05.013), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
-<i>Crithidia bombi</i> | Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Crithidia | --  | [Shykoff and Schmidt-Hempel 1991](http://dx.doi.org/10.1007/bf00164387) (among many others), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
+<i>Apicystis bombi</i> | Eukaryota; Alveolata; Apicomplexa; Conoidasida; Gregarinasina; Neogregarinorida; Ophryocystidae; Apicystis | Not provided | [Liu et al. 1974](https://doi.org/10.1016/0022-2011(74)90188-8), [Lipa and Triggiani 1996](https://doi.org/10.1051/apido:19960104), [Graystock et al. 2013](http://dx.doi.org/10.1111/1365-2664.12134), [Gamboa et al. 2015](https://doi.org/10.1016/j.jip.2015.05.013), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
+[<i>Crithidia bombi</i>](https://www.ncbi.nlm.nih.gov/genome/55882) | Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Crithidia | [<i>Crithidia bombi</i>](https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/55882/) | [Shykoff and Schmidt-Hempel 1991](http://dx.doi.org/10.1007/bf00164387) (among many others), [Ravoet et al. 2014](http://dx.doi.org/10.1016/j.jip.2014.08.007)  
 
 ##  Reference
 These data come from supplemental material of:  
